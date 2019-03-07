@@ -18,7 +18,7 @@
 
 * [넷마블](https://company.netmarble.com/rem/www/noticelist.jsp#)
 
-* [NC소프트](https://recruit.ncsoft.net/kor…/careers/adoptionsection.aspx)
+* [NC소프트](https://recruit.ncsoft.net/korean/careers/adoptionsection.aspx)
 
 * [네오위즈](https://recruit.neowiz.com/jobOpening/list.nwz)
 
@@ -36,7 +36,7 @@
 
 * [아이덴티티 게임즈](https://www.eyedentitygames.com/career/career01.asp)
 
-* [NHN](https://recruit.nhnent.com/ent/index)
+* [NHN](https://recruit.nhnent.com/ent/recruitings?type=class)
 
 * [그라비티](http://www.gravity.co.kr/kr/recruit/view.asp?curSeq=2&curPage=1)
 
@@ -60,7 +60,7 @@
 
 * [위플 게임즈](http://wiplegames.com/?page_id=99)
 
-* [드래곤 플라이](http://www.dragonflygame.com/Recruit/NoticeView?idx=329)
+* [드래곤 플라이](http://www.dragonflygame.com/Recruit/Notice)
 
 * [와이디온라인](http://www.ydonline.co.kr/?cat=9)
 
