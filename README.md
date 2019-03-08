@@ -1,7 +1,7 @@
 국내 게임회사 채용 사이트 목록
 =====
 
-1. 회사 사이트 순서는 임의로 작성하였습니다.
+1. 회사 사이트 순서는 ㄱ,ㄴ,ㄷ 순서로 작성하였습니다.
 
 1. 채용 사이트 내에 채용 공고가 없을 경우, 제외했습니다.
 
@@ -14,61 +14,63 @@
 
 ## 📋 자체 채용 사이트 링크
 
+* [게임빌 - 컴투스](http://recruit.withhive.com/)
+
+* [그라비티](http://www.gravity.co.kr/kr/recruit/view.asp?curSeq=2&curPage=1)
+
+* [네오위즈](https://recruit.neowiz.com/jobOpening/list.nwz)
+
 * [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
 
 * [넷마블](https://company.netmarble.com/rem/www/noticelist.jsp#)
 
-* [NC소프트](https://recruit.ncsoft.net/korean/careers/adoptionsection.aspx)
+* [드래곤 플라이](http://www.dragonflygame.com/Recruit/Notice)
 
-* [네오위즈](https://recruit.neowiz.com/jobOpening/list.nwz)
+* [데브시스터즈](https://careers.devsisters.com/)
+
+* [라인 게임즈](https://recruit.linepluscorp.com/lineplus/career)
 
 * [펄어비스](https://recruit.pearlabyss.com/)
-
-* [게임빌 - 컴투스](http://recruit.withhive.com/)
 
 * [스마일게이트](https://careers.smilegate.com/ko/recruit/recruit_list.asp)
 
 * [웹젠](https://webzen.recruiter.co.kr/app/jobnotice/list)
 
-* [라인 게임즈](https://recruit.linepluscorp.com/lineplus/career)
-
-* [카카오 게임즈](https://kakaogames.recruiter.co.kr/app/jobnotice/list)
-
-* [아이덴티티 게임즈](https://www.eyedentitygames.com/career/career01.asp)
-
-* [NHN](https://recruit.nhnent.com/ent/recruitings?type=class)
-
-* [그라비티](http://www.gravity.co.kr/kr/recruit/view.asp?curSeq=2&curPage=1)
-
-* [크래프톤](https://krafton.jobagent.co.kr:4431/)
-
-* [KOG](https://recruit.kog.co.kr/?AspxAutoDetectCookieSupport=1)
-
-* [액토즈소프트](http://www.actoz.com/recruit/careers)
-
-* [엑스엘 게임즈](https://xlgames.recruiter.co.kr/app/jobnotice/list)
-
-* [IMC 게임즈](http://www.imc.co.kr/IMC_RECRUIT)
-
-* [데브시스터즈](https://careers.devsisters.com/)
-
-* [선데이토즈](http://corp.sundaytoz.com/jobmenu-)
-
-* [쿡앱스](https://www.cookapps.com/jobs)
-
-* [에이스 프로젝트](http://www.aceproject.co.kr/ko/recruit)
-
-* [위플 게임즈](http://wiplegames.com/?page_id=99)
-
-* [드래곤 플라이](http://www.dragonflygame.com/Recruit/Notice)
-
-* [와이디온라인](http://www.ydonline.co.kr/?cat=9)
-
-* [하이브로](http://www.highbrow-inc.com/?page=recruit)
-
 * [밸로프](http://valofe.co.kr/recruit/notice?country=kr)
 
 * [비주얼샤워](http://www.visualshower.com/job-chances/)
+
+* [선데이토즈](http://corp.sundaytoz.com/jobmenu-)
+
+* [IMC 게임즈](http://www.imc.co.kr/IMC_RECRUIT)
+
+* [아이덴티티 게임즈](https://www.eyedentitygames.com/career/career01.asp)
+
+* [와이디온라인](http://www.ydonline.co.kr/?cat=9)
+
+* [위플 게임즈](http://wiplegames.com/?page_id=99)
+
+* [액토즈소프트](http://www.actoz.com/recruit/careers)
+
+* [에이스 프로젝트](http://www.aceproject.co.kr/ko/recruit)
+
+* [엑스엘 게임즈](https://xlgames.recruiter.co.kr/app/jobnotice/list)
+
+* [NC 소프트](https://recruit.ncsoft.net/korean/careers/adoptionsection.aspx)
+
+* [NHN](https://recruit.nhnent.com/ent/recruitings?type=class)
+
+* [카카오 게임즈](https://kakaogames.recruiter.co.kr/app/jobnotice/list)
+
+* [KOG](https://recruit.kog.co.kr/?AspxAutoDetectCookieSupport=1)
+
+* [쿡앱스](https://www.cookapps.com/jobs)
+
+* [크래프톤](https://krafton.jobagent.co.kr:4431/)
+
+* [하이브로](http://www.highbrow-inc.com/?page=recruit)
+
+
 
 ## 🌈 관련 사이트
 
