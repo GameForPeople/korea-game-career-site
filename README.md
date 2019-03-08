@@ -30,21 +30,17 @@
 
 * [라인 게임즈](https://recruit.linepluscorp.com/lineplus/career)
 
-* [펄어비스](https://recruit.pearlabyss.com/)
-
-* [스마일게이트](https://careers.smilegate.com/ko/recruit/recruit_list.asp)
-
-* [웹젠](https://webzen.recruiter.co.kr/app/jobnotice/list)
-
 * [밸로프](http://valofe.co.kr/recruit/notice?country=kr)
 
 * [비주얼샤워](http://www.visualshower.com/job-chances/)
 
 * [선데이토즈](http://corp.sundaytoz.com/jobmenu-)
 
-* [IMC 게임즈](http://www.imc.co.kr/IMC_RECRUIT)
+* [스마일게이트](https://careers.smilegate.com/ko/recruit/recruit_list.asp)
 
 * [아이덴티티 게임즈](https://www.eyedentitygames.com/career/career01.asp)
+
+* [IMC 게임즈](http://www.imc.co.kr/IMC_RECRUIT)
 
 * [와이디온라인](http://www.ydonline.co.kr/?cat=9)
 
@@ -60,6 +56,8 @@
 
 * [NHN](https://recruit.nhnent.com/ent/recruitings?type=class)
 
+* [웹젠](https://webzen.recruiter.co.kr/app/jobnotice/list)
+
 * [카카오 게임즈](https://kakaogames.recruiter.co.kr/app/jobnotice/list)
 
 * [KOG](https://recruit.kog.co.kr/?AspxAutoDetectCookieSupport=1)
@@ -67,6 +65,8 @@
 * [쿡앱스](https://www.cookapps.com/jobs)
 
 * [크래프톤](https://krafton.jobagent.co.kr:4431/)
+
+* [펄어비스](https://recruit.pearlabyss.com/)
 
 * [하이브로](http://www.highbrow-inc.com/?page=recruit)
 
