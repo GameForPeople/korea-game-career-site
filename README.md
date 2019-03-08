@@ -38,6 +38,8 @@
 
 * [스마일게이트](https://careers.smilegate.com/ko/recruit/recruit_list.asp)
 
+* [시프트업](http://www.shiftup.co.kr/recruit/#program)
+
 * [아이덴티티 게임즈](https://www.eyedentitygames.com/career/career01.asp)
 
 * [IMC 게임즈](http://www.imc.co.kr/IMC_RECRUIT)
