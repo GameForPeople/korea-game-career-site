@@ -18,6 +18,8 @@
 
 * [그라비티](http://www.gravity.co.kr/kr/recruit/view.asp?curSeq=2&curPage=1)
 
+* [네시삼십삼분](http://www.433.co.kr/careers/)
+
 * [네오위즈](https://recruit.neowiz.com/jobOpening/list.nwz)
 
 * [넥슨](https://career.nexon.com/user/recruit/notice/noticeList)
