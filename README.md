@@ -72,6 +72,8 @@
 
 * [펄어비스](https://recruit.pearlabyss.com/)
 
+* [플라이셔](http://www.flysher.net/board/board_recruit/board_list.asp?scrID=0000000151&pageNum=4&subNum=3&ssubNum=1)
+
 * [하이브로](http://www.highbrow-inc.com/?page=recruit)
 
 
