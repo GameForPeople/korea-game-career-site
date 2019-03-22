@@ -32,6 +32,8 @@
 
 * [데브시스터즈](https://careers.devsisters.com/)
 
+* [데이세븐](http://www.day7games.com/careers/mainView.ctv?lang=ko)
+
 * [라인 게임즈](https://recruit.linepluscorp.com/lineplus/career)
 
 * [밸로프](http://valofe.co.kr/recruit/notice?country=kr)
