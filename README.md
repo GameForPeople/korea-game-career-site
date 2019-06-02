@@ -97,6 +97,7 @@
 
 > ### 기업 정보 관련 사이트
 >* [잡플래닛 기업 정보](https://www.jobplanet.co.kr/companies?industry_id=709)
+>* [크레딧잡 기업 정보](https://kreditjob.com/)
 >* [게임잡 기업 정보](http://www.gamejob.co.kr/Co_Info/Co_Form_List.asp?Search_Code=1)
 
 ## 💗 Contributor
