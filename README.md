@@ -76,7 +76,7 @@
 
 * [트리노드](https://recruit.treenod.com/jobinfo/)
 
-* [펄어비스](https://recruit.pearlabyss.com/)
+* [펄어비스](https://pearlabyss.recruiter.co.kr/)
 
 * [플라이셔](http://www.flysher.net/board/board_recruit/board_list.asp?scrID=0000000151&pageNum=4&subNum=3&ssubNum=1)
 
