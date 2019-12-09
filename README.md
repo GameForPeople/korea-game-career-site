@@ -90,10 +90,12 @@
 
 > ### 채용 관련 사이트
 >* [게임잡 직종별 채용 공고](http://www.gamejob.co.kr/Recruit/joblist?menucode=duty)
+>* [원티드 채용 공고 "게임"(보 지급)](https://www.wanted.co.kr/wdlist/959)
+>* [프로그래머스 채용 공고 "게임"(보너스 지급)](https://programmers.co.kr/job?job_position%5Bmin_career%5D=&amp;job_position%5Bjob_category_ids%5D%5B%5D=7&amp;job_position%5Bjob_category_ids%5D%5B%5D=16&amp;job_position%5Bjob_category_ids%5D%5B%5D=20&amp;_=1575879402990)
 >* [잡코리아 채용 공고 "게임"](http://www.jobkorea.co.kr/Search/?stext=%EA%B2%8C%EC%9E%84)
 >* [사람인 채용 공고 "게임"](http://www.saramin.co.kr/zf_user/search?search_area=main&search_done=y&search_optional_item=n&searchType=search&searchword=%EA%B2%8C%EC%9E%84)
 >* [인크루트 채용 공고 "게임"](http://search.incruit.com/list/search.asp?col=all&src=gsw*www&kw=%B0%D4%C0%D3)
->* [원티드 채용 공고 "게임"](https://www.wanted.co.kr/wdlist/959)
+
 
 > ### 기업 정보 관련 사이트
 >* [잡플래닛 기업 정보](https://www.jobplanet.co.kr/companies?industry_id=709)
