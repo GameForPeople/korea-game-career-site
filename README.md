@@ -80,7 +80,7 @@
 
 * [플라이셔](http://www.flysher.net/board/board_recruit/board_list.asp?scrID=0000000151&pageNum=4&subNum=3&ssubNum=1)
 
-* [하운드13](http://www.hound13.com/kr/#connect_box)
+* [하운드13](https://www.hound13.com/ko#section_games)
 
 * [하이브로](http://www.highbrow-inc.com/?page=recruit)
 
